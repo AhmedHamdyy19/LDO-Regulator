@@ -8,7 +8,7 @@ Design and Simulation of Three-Stage LDO Regulator with SMC.
 ### Loop Gain & Phase
 ![alt text](https://user-images.githubusercontent.com/90058055/231263188-05b9e046-7838-406e-9ac6-56860b33a24b.jpg "Loop")
 
-The loop has DC gain equal to 107 dB, UGF equal to 15MHz phase margin equal to 66 degrees, and gain margin of 12 dB.
+The loop has DC gain equal to 107 dB, UGF equal to 15MHz, phase margin equal to 66 degrees, and gain margin of 12 dB.
 
 ### Drop-Out Voltage
 ![alt text](https://user-images.githubusercontent.com/90058055/231264119-6991da4d-1b9a-4af0-90da-67538b736a8c.jpg "Drop-Out")
