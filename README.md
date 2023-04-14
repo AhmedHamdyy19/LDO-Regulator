@@ -13,7 +13,7 @@ The loop has DC gain equal to 107 dB, UGF equal to 15MHz, phase margin equal to 
 ### Drop-Out Voltage
 ![alt text](https://user-images.githubusercontent.com/90058055/231264119-6991da4d-1b9a-4af0-90da-67538b736a8c.jpg "Drop-Out")
 
-The circuit has Drop-Out voltage lower than 200 mV.
+The circuit has Drop-Out voltage lower than 200 mV at load current of 5mA.
 
 ### Transient Load Switching
 ![alt text](https://user-images.githubusercontent.com/90058055/231264734-62e86a31-27b8-4235-a3cf-4268b7be2511.jpg "Transient")
